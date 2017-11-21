@@ -1,6 +1,6 @@
 {  
    "vocabs":[
-    ["Test ID","https://uat.cloud.neii.gov.au/neii/neii-network-id/latest/concept.json?&_view=description"],
+    ["Network ID","https://uat.cloud.neii.gov.au/neii/neii-network-id/latest/concept.json?&_view=description"],
     ["Data Provider","https://uat.cloud.neii.gov.au/neii/neii-data-provider/latest/concept.json?&_view=description"],
     ["Data Availability","https://uat.cloud.neii.gov.au/neii/neii-data-availability/latest/concept.json?&_view=description"],  
     ["Environmental Theme","https://uat.cloud.neii.gov.au/neii/neii-environmental-theme/latest/concept.json?&_view=description"],
